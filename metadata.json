@@ -1,0 +1,6 @@
+{
+  "name": "Dr. Yuri Moreira Advocacia & Consultoria",
+  "description": "Site institucional e jurídico para o escritório Dr. Yuri Moreira Advocacia & Consultoria, com áreas de atuação, agendamento de consultas e atendimento humanizado.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
